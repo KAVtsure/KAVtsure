@@ -28,6 +28,7 @@
 ### Мои контакты
 📧 E-mail: andreyvkuzmenko@gmail.com<br />
 **Telegram**: @A_n_d_r_e_w111
+[![Тут текст](https://user-images.githubusercontent.com/70646350/119327162-5952b280-bc8b-11eb-97b2-4484aab48d02.png)](https://t.me/A_n_d_r_e_w111)
 
 <!--
 **KAVtsure/KAVtsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
