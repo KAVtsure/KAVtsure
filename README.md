@@ -26,8 +26,23 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Мои контакты
-📧 E-mail: andreyvkuzmenko@gmail.com<br />
+📧 E-mail: <andreyvkuzmenko@gmail.com><br />
 **Telegram**: @A_n_d_r_e_w111
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/romankh3/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+  <a href='mailto:andreyvkuzmenko@gmail.com'>
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+</p>
+
 
 [![Telegram](https://user-images.githubusercontent.com/70646350/119327162-5952b280-bc8b-11eb-97b2-4484aab48d02.png)](https://t.me/A_n_d_r_e_w111)<br />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andreyvkuzmenko@gmail.com)
