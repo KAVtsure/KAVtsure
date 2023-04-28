@@ -2,6 +2,10 @@
 
 <h3 align="center">И я начинающий frontend разработчик</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### Обо мне
 В 22м закончил обучение на курсе Веб-разработчик в Яндекс.Практикум, сейчас самостоятельно продолжаю изучение. Закрепляю уже пройденное и осваиваю новое.
 
